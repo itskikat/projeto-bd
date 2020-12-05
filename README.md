@@ -18,5 +18,6 @@ Para testar as funcionalidades de um **administrador**, utilizar as credenciais 
 ----------
 ## Author
 ##### [Francisca Barros](https://github.com/itskikat/) (NMEC: 93102)
+##### [Wei Ye](https://github.com/Wei93442) (NMEC: 93442)
 
 UA, 2019/2020
